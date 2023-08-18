@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "6b73Tl2BPxm3iF4Cjx+uv9/dM6RK6V/nf6tYRhhXX34mBYx3a6kJnRUlWzuhu1nNxSbyheDuEVY2ussu+mh5cg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\l\\source\\repos\\JeremiahPapa_BlueTreeGroup_SoftwareEngineer\\Supermarket.Tests\\Supermarket.Checkout.Tests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\l\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
+    "C:\\Users\\l\\.nuget\\packages\\mediatr\\12.1.1\\mediatr.12.1.1.nupkg.sha512",
+    "C:\\Users\\l\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\l\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\l\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\l\\.nuget\\packages\\moq\\4.20.69\\moq.4.20.69.nupkg.sha512",
+    "C:\\Users\\l\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\l\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512",
+    "C:\\Users\\l\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

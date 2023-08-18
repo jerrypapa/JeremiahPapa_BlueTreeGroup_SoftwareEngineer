@@ -1,0 +1,15 @@
+C:\Users\l\source\repos\JeremiahPapa_BlueTreeGroup_SoftwareEngineer\Supermarket.Checkout.Application.Services\obj\Debug\net7.0\Supermarket.Checkout.Application.csproj.AssemblyReference.cache
+C:\Users\l\source\repos\JeremiahPapa_BlueTreeGroup_SoftwareEngineer\Supermarket.Checkout.Application.Services\obj\Debug\net7.0\Supermarket.Checkout.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\l\source\repos\JeremiahPapa_BlueTreeGroup_SoftwareEngineer\Supermarket.Checkout.Application.Services\obj\Debug\net7.0\Supermarket.Checkout.Application.AssemblyInfoInputs.cache
+C:\Users\l\source\repos\JeremiahPapa_BlueTreeGroup_SoftwareEngineer\Supermarket.Checkout.Application.Services\obj\Debug\net7.0\Supermarket.Checkout.Application.AssemblyInfo.cs
+C:\Users\l\source\repos\JeremiahPapa_BlueTreeGroup_SoftwareEngineer\Supermarket.Checkout.Application.Services\obj\Debug\net7.0\Supermarket.Checkout.Application.csproj.CoreCompileInputs.cache
+C:\Users\l\source\repos\JeremiahPapa_BlueTreeGroup_SoftwareEngineer\Supermarket.Checkout.Application.Services\bin\Debug\net7.0\Supermarket.Checkout.Application.deps.json
+C:\Users\l\source\repos\JeremiahPapa_BlueTreeGroup_SoftwareEngineer\Supermarket.Checkout.Application.Services\bin\Debug\net7.0\Supermarket.Checkout.Application.dll
+C:\Users\l\source\repos\JeremiahPapa_BlueTreeGroup_SoftwareEngineer\Supermarket.Checkout.Application.Services\bin\Debug\net7.0\Supermarket.Checkout.Application.pdb
+C:\Users\l\source\repos\JeremiahPapa_BlueTreeGroup_SoftwareEngineer\Supermarket.Checkout.Application.Services\bin\Debug\net7.0\Supermarket.Checkout.Domain.dll
+C:\Users\l\source\repos\JeremiahPapa_BlueTreeGroup_SoftwareEngineer\Supermarket.Checkout.Application.Services\bin\Debug\net7.0\Supermarket.Checkout.Domain.pdb
+C:\Users\l\source\repos\JeremiahPapa_BlueTreeGroup_SoftwareEngineer\Supermarket.Checkout.Application.Services\obj\Debug\net7.0\Supermarket.Checkout.Application.csproj.CopyComplete
+C:\Users\l\source\repos\JeremiahPapa_BlueTreeGroup_SoftwareEngineer\Supermarket.Checkout.Application.Services\obj\Debug\net7.0\Supermarket.Checkout.Application.dll
+C:\Users\l\source\repos\JeremiahPapa_BlueTreeGroup_SoftwareEngineer\Supermarket.Checkout.Application.Services\obj\Debug\net7.0\refint\Supermarket.Checkout.Application.dll
+C:\Users\l\source\repos\JeremiahPapa_BlueTreeGroup_SoftwareEngineer\Supermarket.Checkout.Application.Services\obj\Debug\net7.0\Supermarket.Checkout.Application.pdb
+C:\Users\l\source\repos\JeremiahPapa_BlueTreeGroup_SoftwareEngineer\Supermarket.Checkout.Application.Services\obj\Debug\net7.0\ref\Supermarket.Checkout.Application.dll
